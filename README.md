@@ -1,5 +1,7 @@
 # svea-set-light-blink
 
+![Blinking lights](https://github.com/SauceChord/svea-set-light-blink/blob/main/media/demo.gif)
+
 This script allow for easy configuration of lights that should turn on and off in sequence.
 
 - Link lights to the programming board in the order they should turn on in. 
